@@ -1,29 +1,13 @@
-# 🍕 PS Pizza Website
+# Responsive Pizza Website
 
-A modern and responsive Pizza Website built using HTML, CSS, and JavaScript.  
-This project showcases a clean design for a pizza shop with menu, ordering, and attractive UI elements.
+### Responsive Pizza Website
 
----
+- Responsive Pizza Website Design Using HTML CSS And JavaScript
+- Contains animations when scrolling.
+- Smooth scrolling in each section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-## 🚀 Live Demo
-🔗 https://ps-pizza-website.netlify.app
+💙 Join the channel to see more videos like this.
 
----
-
-## ✨ Features
-- 🍕 Attractive homepage and menu section  
-- 📱 Fully responsive (Mobile + Desktop)  
-- 🎨 Stylish layout with smooth CSS effects  
-- ⚡ Fast and lightweight performance  
-- 🖼️ Pizza images gallery / product showcase  
-
----
-
-## 🛠️ Technologies Used
-- HTML5  
-- CSS3  
-- JavaScript  
-
----
-
-## 📂 Project Structure
+![preview img](/preview.png)
